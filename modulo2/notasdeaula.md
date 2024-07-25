@@ -9,3 +9,5 @@ Nesta aula estamos aprendendo comandos úteis
 ### git add
 
 ### git add .
+
+### git commit -m
